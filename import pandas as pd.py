@@ -32,3 +32,4 @@ print("Coefficients (Number_of_Customers, Menu_Price, Marketing_Spend, Average_C
 print("Intercept:", model.intercept_)
 print("Mean Squared Error:", mse)
 print("R^2 Score:", r2)
+print("Go PACKERS YEHAHAHAHAAH")
